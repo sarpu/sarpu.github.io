@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
 ---
-sdfasdf asdfsa dfasdfasdfasdfasdf
+I'm Sarp. This is my blog.
