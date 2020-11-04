@@ -1,6 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
-I'm Sarp. This is my blog.
+I'm Sarp. This is my blog. And this is my kitten Zeytin.
+
+![My kitten Zeytin](/assets/images/zeytin.jpeg)
+
+
+
